@@ -23,7 +23,7 @@ body {
 
 /* LAYOUTS */
 
-.container {
+#root {
   max-width: 1000px;
   /* background-color: aqua; */
   margin:0 auto;
